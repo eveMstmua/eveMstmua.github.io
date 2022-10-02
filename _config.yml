@@ -109,7 +109,7 @@ analytics:
 # Site Author
 author:
   name             : "K Lin"
-  avatar           : "/assets/images/profile-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile-photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Welcome to my website!"
   location         : "China"
   email            :
