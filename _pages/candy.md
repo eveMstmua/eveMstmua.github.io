@@ -6,30 +6,24 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/candy-ke-header.jpg
-  actions:
-    - label: "Download"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: ""Normal stuff. Nice life, cool flat, fun job. Someone to watch movies with.""
+excerpt: "'Normal stuff. Nice life, cool flat, fun job. Someone to watch movies with.'"
 intro: 
   - excerpt: "Collection of what I love."
 feature_row:
   - image_path: assets/images/candy-book.jpg
-    alt: "Villanelle reading 'How to get over your ex in 10 steps'"
+    alt: "Villanelle reading How to get over your ex in 10 steps"
     title: "Books"
     excerpt: "Feminism, fantasy, political economy, weird stories, etc."
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-
   - image_path: /assets/images/candy-movie.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "Some movies"
     title: "Movies"
     excerpt: "Films, anime, TV plays, etc."
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/candy-music.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: ""
     title: "Music"
     excerpt: "Yico, disco, etc."
 feature_row2:
