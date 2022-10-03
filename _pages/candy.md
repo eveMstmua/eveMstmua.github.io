@@ -27,10 +27,6 @@ feature_row:
     alt: "Some movies"
     title: "Movies"
     excerpt: "Films, anime, TV plays, etc."
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-
   - image_path: /assets/images/candy-music.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: ""
