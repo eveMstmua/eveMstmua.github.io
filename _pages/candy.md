@@ -13,7 +13,6 @@ header:
 excerpt: ""Normal stuff. Nice life, cool flat, fun job. Someone to watch movies with.""
 intro: 
   - excerpt: "Collection of what I love."
-
 feature_row:
   - image_path: assets/images/candy-book.jpg
     alt: "Villanelle reading 'How to get over your ex in 10 steps'"
@@ -37,7 +36,6 @@ feature_row:
     alt: ""
     title: "Music"
     excerpt: "Yico, disco, etc."
-
 feature_row2:
   - image_path: /assets/images/candy-food-keseason1.jpg
     alt: "placeholder image 2"
@@ -46,7 +44,6 @@ feature_row2:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-
 feature_row3:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
