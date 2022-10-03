@@ -38,7 +38,7 @@ feature_row:
     excerpt: "Yico, disco, etc."
 feature_row2:
   - image_path: /assets/images/candy-food-keseason1.jpg
-    alt: "placeholder image 2"
+    alt: "the night they met for the first time."
     title: "I just want to have dinner with you."
     excerpt: "All kinds of food I enjoy."
     url: "#test-link"
