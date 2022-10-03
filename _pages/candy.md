@@ -6,10 +6,9 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/candy-ke-header.jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "'Normal stuff. Nice life, cool flat, fun job. Someone to watch movies with.'"
 intro: 
-  - excerpt: "Collection of what I love."
+  - excerpt: "Collections of what I love stored in a candy jar."
 feature_row:
   - image_path: assets/images/candy-book.jpg
     alt: "Villanelle reading How to get over your ex in 10 steps"
@@ -29,7 +28,7 @@ feature_row:
 feature_row2:
   - image_path: /assets/images/candy-food-keseason1.png
     alt: "the night they met for the first time."
-    title: ""I just want to have dinner with you!""
+    title: "'I just want to have dinner with you!'"
     excerpt: "All kinds of food I enjoy."
     url: "#test-link"
     btn_label: "Read More"
