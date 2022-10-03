@@ -4,7 +4,7 @@ layout: single
 excerpt: "This is my personal website."
 sitemap: false
 permalink: /about/
-last_modified_at: 
+author_profile: true
 ---
 # Personal
 I enjoy writing fanfiction in my spare time. blablabla
