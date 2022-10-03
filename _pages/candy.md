@@ -10,14 +10,14 @@ header:
     - label: "Download"
       url: "https://github.com/mmistakes/minimal-mistakes/"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Every emotional moment is just a candy of specific flavor."
+excerpt: "Normal stuff. Nice life, cool flat, fun job. Someone to watch movies with."
 intro: 
-  - excerpt: "Books Movies Comics Food etc."
+  - excerpt: "Collection of what I love."
 feature_row:
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
+  - image_path: assets/images/candy-book.jpg
     alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    title: "Books"
+    excerpt: "Feminism, fantasy, political economy, weird stories, etc."
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"

@@ -6,5 +6,7 @@ main:
     url: /resources/
   - title: "Candy"
     url: /candy/
+  - title: "Archive"
+    url: /archive/
   - title: "About"
     url: /about/
