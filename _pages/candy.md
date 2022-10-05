@@ -20,7 +20,7 @@ feature_row:
     alt: "Some movies"
     title: "Movies"
     excerpt: "Films, anime, TV plays, etc."
-    url: /movies/
+    url: candy/movies/
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/candy-music.jpg

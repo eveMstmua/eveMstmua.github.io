@@ -1,5 +1,5 @@
 ---
-title: Econ
+title: Resources-Econ
 layout: category
 permalink: /resources/econ/
 taxonomy: Econ
