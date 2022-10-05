@@ -4,7 +4,7 @@ layout: single
 excerpt: "movie"
 sitemap: false
 categories: 
-    - candy
+    - Candy
     - Movies
 author_profile: true
 ---
