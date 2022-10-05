@@ -8,5 +8,4 @@ main:
     url: /candy/
   - title: "Archive" #year-archive
     url: /archive/
-  - title: "Research"
-    url: /research/
+

@@ -1,7 +1,6 @@
 ---
-title: Canal and  - Pre on Western Economics Frontier
+title: resource1
 categories: 
-    - resources
-tags: econ
+    - Pre
 ---
 this page showss the group presentation.

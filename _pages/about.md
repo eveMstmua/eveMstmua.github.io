@@ -6,7 +6,6 @@ sitemap: false
 permalink: /about/
 author_profile: true
 ---
-# About
 Welcome to my website!
 # CV
 My current CV has been updated in October 2022.

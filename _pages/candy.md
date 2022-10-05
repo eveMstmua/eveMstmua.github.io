@@ -26,7 +26,7 @@ feature_row:
   - image_path: /assets/images/candy-music.jpg
     title: "Music"
     excerpt: "Yico, disco, etc."
-feature_row4:
+feature_row2:
   - image_path: /assets/images/candy-food-keseason1.png
     alt: "the night they met for the first time."
     title: "'I just want to have dinner with you!'"
@@ -40,4 +40,4 @@ feature_row4:
 
 {% include feature_row %}
 
-{% include feature_row id="feature_row4" type="center" %}
+{% include feature_row id="feature_row2" type="center" %}

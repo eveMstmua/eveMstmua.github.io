@@ -1,6 +1,6 @@
 ---
 title: "Resources"
-layout: single
+layout: categories
 excerpt: "Something useful for me."
 sitemap: false
 permalink: /resources/
