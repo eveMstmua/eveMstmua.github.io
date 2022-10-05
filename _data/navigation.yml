@@ -3,7 +3,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Resources"
-    url: /categories/
+    url: /resources/
   - title: "Candy"
     url: /candy/
   - title: "Archive" #year-archive

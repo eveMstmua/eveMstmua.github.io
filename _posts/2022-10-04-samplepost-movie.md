@@ -4,7 +4,7 @@ layout: single
 excerpt: "All kinds of food I enjoy."
 sitemap: false
 categories: 
-    - Candy
+    - Movies
 author_profile: true
 ---
 # Food
