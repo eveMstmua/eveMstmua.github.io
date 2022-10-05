@@ -2,6 +2,7 @@
 title: "Candy"
 layout: splash
 permalink: /candy/
+author_profile: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -25,27 +26,11 @@ feature_row:
   - image_path: /assets/images/candy-music.jpg
     title: "Music"
     excerpt: "Yico, disco, etc."
-feature_row2:
+feature_row4:
   - image_path: /assets/images/candy-food-keseason1.png
     alt: "the night they met for the first time."
     title: "'I just want to have dinner with you!'"
     excerpt: "All kinds of food I enjoy."
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row3:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row4:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -54,9 +39,5 @@ feature_row4:
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
-
-{% include feature_row id="feature_row2" type="left" %}
-
-{% include feature_row id="feature_row3" type="right" %}
 
 {% include feature_row id="feature_row4" type="center" %}

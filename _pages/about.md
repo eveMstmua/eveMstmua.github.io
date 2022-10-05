@@ -6,5 +6,9 @@ sitemap: false
 permalink: /about/
 author_profile: true
 ---
+# About
+Welcome to my website!
+# CV
+My current CV has been updated in October 2022.
 # Personal
-I enjoy writing fanfiction in my spare time. blablabla
+Obsessed with the TV play Killing Eve; Trying hard to build a personal website...

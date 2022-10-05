@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "Research"
-    url: /research/
+  - title: "About"
+    url: /about/
   - title: "Resources"
     url: /resources/
   - title: "Candy"
     url: /candy/
-  - title: "Archive"
+  - title: "Archive" #year-archive
     url: /archive/
-  - title: "About"
-    url: /about/
+  - title: "Research"
+    url: /research/
