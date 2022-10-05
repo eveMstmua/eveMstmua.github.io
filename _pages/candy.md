@@ -28,10 +28,10 @@ feature_row:
     excerpt: "Yico, disco, etc."
 feature_row2:
   - image_path: /assets/images/candy-food-keseason1.png
-    alt: "the night they met for the first time."
+    alt: "picture of the first dinner Villanelle and Eve have together."
     title: "'I just want to have dinner with you!'"
     excerpt: "All kinds of food I enjoy."
-    url: "#test-link"
+    url: candy/food/
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---

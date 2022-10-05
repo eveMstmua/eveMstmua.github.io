@@ -1,11 +1,11 @@
 ---
-title: "I just want to have dinner with you!"
+title: "Moviesamplepost"
 layout: single
-excerpt: "All kinds of food I enjoy."
+excerpt: "movie"
 sitemap: false
 categories: 
-    - Movies
+    - [Candy, Movies]
 author_profile: true
 ---
-# Food
-酸辣。
+# Movie
+sample post
