@@ -1,6 +1,6 @@
 ---
 title: "Posts by Category"
 layout: categories
-permalink: /candy/
+permalink: /test/
 author_profile: true
 ---
