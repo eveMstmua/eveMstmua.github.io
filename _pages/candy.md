@@ -51,5 +51,5 @@ feature_row4:
 
 {% include feature_row id="feature_row3" type="left" %}
 
-{% include feature_row id="feature_row4" type="left" %}
+{% include feature_row id="feature_row4s" type="left" %}
 
