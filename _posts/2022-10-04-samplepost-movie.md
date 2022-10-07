@@ -1,6 +1,5 @@
 ---
 title: "Moviesamplepost"
-layout: single
 excerpt: "movie"
 sitemap: false
 categories: 

@@ -1,6 +1,5 @@
 ---
 title: "酸辣"
-layout: single
 excerpt: "一些酸辣食物."
 sitemap: false
 categories: 
