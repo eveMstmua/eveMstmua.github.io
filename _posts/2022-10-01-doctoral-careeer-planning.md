@@ -9,4 +9,4 @@ tags:
 ---
 A Guide for PhD Programs and Faculty Members in English and Other Modern Languages from the MLA’s Connected Academics Initiative.
 
-[下载 PDF]({{ site.url }}/assets/Doctoral-Student-Career-Planning-May-2018.pdf).
+[下载 PDF]({{ site.url }}/assets/pdf/Doctoral-Student-Career-Planning-May-2018.pdf).
