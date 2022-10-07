@@ -15,10 +15,6 @@ feature_row:
     alt: "Villanelle reading How to get over your ex in 10 steps"
     title: "Books"
     excerpt: "Feminism, fantasy, political economy, weird stories, etc."
-    url: candy/books/
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row2:
   - image_path: /assets/images/candy-movie.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "Some movies"
@@ -27,14 +23,10 @@ feature_row2:
     url: candy/movies/
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row3:
   - image_path: /assets/images/candy-music.jpg
     title: "Music"
     excerpt: "Yico, disco, etc."
-    url: candy/music/
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row4:
+feature_row2:
   - image_path: /assets/images/candy-food-keseason1.png
     alt: "picture of the first dinner Villanelle and Eve have together."
     title: "'I just want to have dinner with you!'"
@@ -48,8 +40,4 @@ feature_row4:
 {% include feature_row %}
 
 {% include feature_row id="feature_row2" type="left" %}
-
-{% include feature_row id="feature_row3" type="left" %}
-
-{% include feature_row id="feature_row4s" type="left" %}
 
